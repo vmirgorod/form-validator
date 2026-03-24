@@ -1,2 +1,1 @@
-# form-validator
-Yandex Form validator mock
+Different pages
