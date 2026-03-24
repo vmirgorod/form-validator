@@ -67,7 +67,7 @@
         function hideWebViewWithStatus(status) {
             console.log("going to call requestHideWebView with status:", status);
             window.taxiApp.call('requestHideWebView', "token", { 
-                "status": "${status}" 
+                "status": status
             });
         }
     </script>
